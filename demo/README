@@ -1,0 +1,8 @@
+Requirment:
+1. Install Go Compiler on Linux
+2. Setting Up Printer wih CUPS and Xprinter T58K Driver
+
+Step to run:
+1. Go to demo directory: go mod init demo
+2. Build source code: go build main.go
+3. Run: ./main
